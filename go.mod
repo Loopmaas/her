@@ -1,3 +1,3 @@
-module github.com/hexcraft-biz/her
+module github.com/Loopmaas/her
 
 go 1.21.5
